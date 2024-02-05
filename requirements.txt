@@ -2,7 +2,7 @@ streamlit
 uuid
 tiktoken
 loguru
-faiss-cpu  
+faiss-cpu
 google-ai-generativelanguage
 google-api-core
 google-auth
@@ -10,16 +10,12 @@ google-generativeai
 googleapis-common-protos
 googletrans
 langchain-google-genai
-huggingface-hub  
-transformers  
+huggingface-hub
+transformers
 pysqlite3-binary
 langchain
 chromadb
 unstructured
 sentence-transformers
-faiss-cpu
-tiktoken
-openai
 pypdf
-loguru
 docx2txt
