@@ -7,7 +7,7 @@ google-ai-generativelanguage
 google-api-core
 google-auth
 google-generativeai
-oogleapis-common-protos
+googleapis-common-protos
 googletrans
 huggingface-hub  
 transformers  
