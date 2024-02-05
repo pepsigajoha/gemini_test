@@ -1,6 +1,5 @@
 streamlit
 uuid
-tiktoken
 loguru
 faiss-cpu
 google-ai-generativelanguage
