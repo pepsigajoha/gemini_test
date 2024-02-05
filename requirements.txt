@@ -9,6 +9,7 @@ google-auth
 google-generativeai
 googleapis-common-protos
 googletrans
+langchain-google-genai
 huggingface-hub  
 transformers  
 pysqlite3-binary
